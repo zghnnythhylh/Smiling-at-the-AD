@@ -37,6 +37,9 @@
 36kr.com##.kr-information-right
 36kr.com##.kr-information-right
 36kr.com##.kr-information-right
+360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__redbag.animate:first-child
+360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__tips:nth-child(3)
+360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__time:nth-child(2) > div.tasktimer__time__bar.animate
 baidu.com###\32 1 > div.new-pmd:last-child > div.c-gap-top-xsmall.c-recommend.recommend-none-border
 baidu.com###\36 
 baidu.com###_17198851643770_0 > div.wise-dislike.triangleBottom:nth-child(2) > div.containers
@@ -249,6 +252,7 @@ so.com###real_time_news
 so.com###res_news_flow
 so.com###side_wrap > div.res-mediav-right:last-child > div.inner > div.inner_left.single:nth-child(2) > div.item.item_1 > a
 so.com###so-pdr-guide
+so.com###so-task-act-user-guider-dlg > a
 so.com###warper > div.mod-relation:nth-child(2)
 sogou.com###float_uphint
 sogou.com###n > a:first-child
