@@ -1,6 +1,6 @@
 !Smiling at the AD#2024-07-19#[Stable---5.4.2]
 !此版本包含重要的质量修复。
-!此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……,
+!此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……
 !可能会有一些语法错误。
 !此规则可以拦截广告和可能包含恶意软件及其他潜在性有害内容的网站。
 !每次更新需要先删除原有规则，再进行导入，获取更新https://join.skype.com/wGtdELdLiBKk
@@ -453,7 +453,6 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||safe.2345.cc^$document,redirect=noopframe
 ||sd.zjdashi.com^$document,redirect=noopframe
 ||store.rg-adguard.net^$document,redirect=noopframe
-||tieba.baidu.com^$document
 ||tmioe.com^$document,redirect=noopframe
 ||uqidong.com^$document,redirect=noopframe
 ||v2rayhome.github.io^$document,redirect=noopframe
