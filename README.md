@@ -5,8 +5,8 @@
 
 订阅URL
 
-[https://raw.githubusercontent.com/zghnnythhylh/Smiling-at-the-AD/main/Smiling%20at%20the%20AD.txt](订阅URL1)
+[https://raw.githubusercontent.com/zghnnythhylh/Smiling-at-the-AD/main/Smiling%20at%20the%20AD.txt](https://raw.githubusercontent.com/zghnnythhylh/Smiling-at-the-AD/main/Smiling%20at%20the%20AD.txt)
 
 或
 
-[https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD.txt](订阅URL2)
+[https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD.txt](https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD.txt)
