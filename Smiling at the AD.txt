@@ -1,9 +1,9 @@
-!Smiling at the AD#2024-07-19#[Stable---5.4.2]
-!此版本包含重要的质量修复。
+!Smiling at the AD#2024-08-01#[Stable---5.5.0Release]
+!此版本包含基本的质量修复。
 !此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……
 !可能会有一些语法错误。
 !此规则可以拦截广告和可能包含恶意软件及其他潜在性有害内容的网站。
-!每次更新需要先删除原有规则，再进行导入，获取更新https://join.skype.com/wGtdELdLiBKk
+!每次更新需要先删除原有规则，再进行导入。
 !此规则并没有恶意针对xxx。
 !此规则可能会破坏一些网站的外观设计。
 !
@@ -37,9 +37,6 @@
 36kr.com##.kr-information-right
 36kr.com##.kr-information-right
 36kr.com##.kr-information-right
-360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__redbag.animate:first-child
-360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__tips:nth-child(3)
-360kuai.com###app > div.main > div.main_content > div.detail-body.clearfix:nth-child(2) > div.detail-side:last-child > div.k-float-btn__wrapper:last-child > div:last-child > div.tasktimer > div.tasktimer__time:nth-child(2) > div.tasktimer__time__bar.animate
 baidu.com###\32 1 > div.new-pmd:last-child > div.c-gap-top-xsmall.c-recommend.recommend-none-border
 baidu.com###\36 
 baidu.com###_17198851643770_0 > div.wise-dislike.triangleBottom:nth-child(2) > div.containers
@@ -106,6 +103,7 @@ gaoji.2345.com###searchbar_logo
 gaoji.2345.com##div:nth-child(3) > div.top:nth-child(2)
 geekdload.com##section.container:nth-child(7) > div.sidebar:last-child
 geekdload.com##section.container:nth-child(7) > div.sidebar:last-child
+gitee.com###__next > div.fixed.left-0.bottom-\[4\.5px\].z-\[106\]:nth-child(3) > a.block > img.my-0.mx-\[10px\].w-\[200px\]:first-child
 hao.360.com###astro
 hao.360.com###copyright
 hao.360.com###doc-main-bd
@@ -252,7 +250,6 @@ so.com###real_time_news
 so.com###res_news_flow
 so.com###side_wrap > div.res-mediav-right:last-child > div.inner > div.inner_left.single:nth-child(2) > div.item.item_1 > a
 so.com###so-pdr-guide
-so.com###so-task-act-user-guider-dlg > a
 so.com###warper > div.mod-relation:nth-child(2)
 sogou.com###float_uphint
 sogou.com###n > a:first-child
@@ -426,9 +423,12 @@ zh.safetydetectives.com##.vendor-btn
 zhihu.com###TopstoryContent > div.ListShortcut > div.Topstory-recommend > div.css-1fsnuue > div.Card.TopstoryItem.TopstoryItem-isRecommend:nth-child(3) > div.Feed > div > div > div.ContentItem.AnswerItem
 zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child > div.widget.widget_image_ad:first-child
 !以下规则拦截可能包含恶意软件及其他潜在性有害内容的网站。
+|||163.
+||360.
 ||52pjb.net^$document,redirect=noopframe
 ||62c33227459003d85c4a2ac3ea71b879.zunjishoufa.quanfeng.net^$document,redirect=noopframe
 ||app.2345.com^$document,redirect=noopframe
+||baidu.
 ||cms.youtube.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
@@ -453,6 +453,7 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||pic.2345.cc^$document,redirect=noopframe
 ||pinyin.2345.cc^$document,redirect=noopframe
 ||pojiejd.com^$document,redirect=noopframe
+||qq.
 ||rgbcg.com^$document,redirect=noopframe
 ||safe.2345.cc^$document,redirect=noopframe
 ||sd.zjdashi.com^$document,redirect=noopframe
@@ -525,6 +526,8 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||www.xiazaiba.com^$document,redirect=noopframe
 ||www.xitongtiandi.net^$document,redirect=noopframe
 ||www.xitongzhijia.com^$document,redirect=noopframe
+||www.xitongzhijia.net^$document,redirect=noopframe
+||www.xtxz.com^$document,redirect=noopframe
 ||www.xmpojie.com^$document,redirect=noopframe
 ||www.yhdmapp.com^$document
 ||www.yishimei.cn^$document,redirect=noopframe
@@ -539,6 +542,77 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||youqian.360.cn^$document,redirect=noopframe
 ||ypojie.com^$document,redirect=noopframe
 ||zs.yes115.com^$document,redirect=noopframe
+!The following rules block other websites.
+||www.kuaishou.com^$document,redirect=noopframe
+||www.youxiguancha.com^$document,redirect=noopframe
+||www.mamecn.com^$document,redirect=noopframe
+||www.douyin.com^$document,redirect=noopframe
+||ainio.cn^$document,redirect=noopframe
+||www.fun.tv^$document,redirect=noopframe
+||www.1905.com^$document,redirect=noopframe
+||vip.1905.com^$document,redirect=noopframe
+||www.4399.com^$document,redirect=noopframe
+||www.18183.com^$document,redirect=noopframe
+||www.17yoo.cn^$document,redirect=noopframe
+||xiaoyouxi.360.cn^$document,redirect=noopframe
+||fun.360.cn^$document,redirect=noopframe
+||lewan.baidu.com^$document,redirect=noopframe
+||www.7k7k.com^$document,redirect=noopframe
+||flash.cn^$document,redirect=noopframe
+||www.u7u9.com##div^$document,redirect=noopframe
+||qqgame.qq.com^$document,redirect=noopframe
+||m.ali213.net^$document,redirect=noopframe
+||mzh.moegirl.org.cn^$document,redirect=noopframe
+||party.163.com^$document,redirect=noopframe
+||cg.163.com^$document,redirect=noopframe
+||www.minecraft.net^$document
+||mc.163.com^$document,redirect=noopframe
+||ys.mihoyo.com^$document,redirect=noopframe
+||ymzx.qq.com^$document,redirect=noopframe
+||pvp.qq.com^$document,redirect=noopframe
+||www.taptap.cn^$document,redirect=noopframe
+||indienova.com^$document,redirect=noopframe
+||www.pvz.moe^$document,redirect=noopframe
+||www.bilibili.com^$document,redirect=noopframe
+||tieba.baidu.com^$document,redirect=noopframe
+||www.fandom.com^$document,redirect=noopframe
+||zh.fandom.com^$document,redirect=noopframe
+||www.baidu.com^$document,redirect=noopframe
+||www.so.com^$document,redirect=noopframe
+||y.qq.com^$document,redirect=noopframe
+||music.apple.com^$document
+||www.ea.com^$document
+||music.163.com^$document,redirect=noopframe
+||www.ccw.site^$document,redirect=noopframe
+||www.kuaikanmanhua.com^$document,redirect=noopframe
+||store.steampowered.com^$document
+||steampp.net^$document
+||www.tbtool.cn^$document,redirect=noopframe
+||www.msn.cn^$document,redirect=noopframe
+||www.tmall.com^$document,redirect=noopframe
+||tb.alicdn.com^$document,redirect=noopframe
+||www.taobao.com^$document,redirect=noopframe
+||www.temu.com^$document
+||www.pinduoduo.com^$document,redirect=noopframe
+||www.360kuai.com^$document,redirect=noopframe
+||www.zhihu.com^$document,redirect=noopframe
+||www.qq.com^$document,redirect=noopframe
+||www.dygoda.com^$document,redirect=noopframe
+||dydytt.net^$document,redirect=noopframe
+||www.dyttcn.com^$document,redirect=noopframe
+||www.wan1234.com^$document,redirect=noopframe
+||www.lonelystar.org^$document
+||greenhubtx.ga^$document
+||www.lanzous.com^$document,redirect=noopframe
+||flash.cn^$document
+||windterm.org^$document,redirect=noopframe
+||www.uqitong.com^$document,redirect=noopframe
+||www.ofice.com^$document,redirect=noopframe
+||www.tiktok.com^$document
+||www.x.com^$document,redirect=noopframe
+||www.temu.com^$document,redirect=noopframe
+||cms.youtube.com^$document,redirect=noopframe
+||www.twitterflightschool.com^$document,redirect=noopframe
 !放行
 @@||addons.mozilla.org^$document
 @@||atelier-anchor.com^$document
@@ -556,4 +630,5 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 @@||www.jiangnangame.com^$document
 @@||www.mozilla.org^$document
 @@||www.openeuler.org^$document
+@@||pvz2.hrgame.com.cn^$document
 @@||www.rust-lang.org^$document
