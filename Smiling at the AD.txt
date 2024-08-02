@@ -1,4 +1,4 @@
-!Smiling at the AD#2024-08-02#[Stable---5.5.1Release]
+!Smiling at the AD#2024-08-02#[Stable---6.0.0Release]
 !此版本包含基本的质量修复。
 !此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……
 !可能会有一些语法错误。
@@ -468,7 +468,6 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||www.93pojie.com^$document,redirect=noopframe
 ||www.aichunjing.com^$document,redirect=noopframe
 ||www.appinn.com^$document,redirect=noopframe
-||www.cnblogs.com^$document,redirect=noopframe
 ||www.cr173.com^$document,redirect=noopframe
 ||www.crsky.com^$document,redirect=noopframe
 ||www.dayanzai.me^$document,redirect=noopframe
@@ -547,6 +546,7 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 @@||atelier-anchor.com^$document
 @@||chromewebstore.google.com^$document
 @@||code.visualstudio.com^$document
+@@||www.cnblogs.com^$document
 @@||docs.hotpe.top^$document
 @@||docs.python.org^$document
 @@||down.hotpe.top^$document
