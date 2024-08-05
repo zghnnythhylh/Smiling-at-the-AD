@@ -424,7 +424,6 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||cms.youtube.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
-||cn.
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||dabaicai.com^$document,redirect=noopframe
