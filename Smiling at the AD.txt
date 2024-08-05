@@ -1,4 +1,4 @@
-!Smiling at the AD#2024-08-03#[Stable---6.0.1]
+!Smiling at the AD#2024-08-04#[Stable---6.0.2]
 !此版本包含基本的质量修复。
 !此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……
 !可能会有一些语法错误。
@@ -74,6 +74,10 @@ cn.bing.com##.b_rrsr
 cn.bing.com##.b_rs
 cn.bing.com##.tab-content
 cn.bing.com##.sa_rr
+cn.bing.com##.below_sbox
+cn.bing.com##.vs
+cn.bing.com###sa_zis_PN
+cn.bing.com###b_context
 cybermap.kaspersky.com###header_main_button
 gaoji.2345.com###calendar > div.box_cnt.calendar.cale:nth-child(2) > h4:last-child > span:last-child > a.blue
 gaoji.2345.com###calendar_lunar > a
@@ -414,17 +418,18 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 !以下规则拦截可能包含恶意软件及其他潜在性有害内容的网站。
 ||163.
 ||360.
-||52pjb.net^$document,redirect=noopframe
+||52pojie.net^$document,redirect=noopframe
 ||62c33227459003d85c4a2ac3ea71b879.zunjishoufa.quanfeng.net^$document,redirect=noopframe
 ||app.2345.com^$document,redirect=noopframe
-||baidu.
 ||cms.youtube.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
+||cn.
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||dabaicai.com^$document,redirect=noopframe
 ||ddkk.tv^$document
+||flash.
 ||flash.cn^$document
 ||fun.
 ||game.
@@ -451,14 +456,15 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||safe.2345.cc^$document,redirect=noopframe
 ||sd.zjdashi.com^$document,redirect=noopframe
 ||store.rg-adguard.net^$document,redirect=noopframe
+||so.
 ||tmioe.com^$document,redirect=noopframe
 ||uqidong.com^$document,redirect=noopframe
 ||v2rayhome.github.io^$document,redirect=noopframe
+||vip.
 ||wang.
 ||windterm.org^$document,redirect=noopframe
 ||windterm.org^$document,redirect=noopframe
 ||www.01xitong.com^$document,redirect=noopframe
-||www.52pojie.cn^$document,redirect=noopframe
 ||www.93pojie.com^$document,redirect=noopframe
 ||www.aichunjing.com^$document,redirect=noopframe
 ||www.appinn.com^$document,redirect=noopframe
@@ -469,6 +475,7 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||www.downcc.com^$document,redirect=noopframe
 ||www.downkuai.com^$document,redirect=noopframe
 ||www.downza.cn^$document,redirect=noopframe
+||wenku.
 ||www.fenxm.com^$document,redirect=noopframe
 ||www.fenxm.com^$document,redirect=noopframe
 ||www.geekdload.com^$document,redirect=noopframe
