@@ -455,7 +455,6 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||pic.2345.cc^$document,redirect=noopframe
 ||pinyin.2345.cc^$document,redirect=noopframe
 ||pojiejd.com^$document,redirect=noopframe
-||qq.
 ||rgbcg.com^$document,redirect=noopframe
 ||safe.2345.cc^$document,redirect=noopframe
 ||sd.zjdashi.com^$document,redirect=noopframe
