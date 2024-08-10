@@ -1,4 +1,4 @@
-!Smiling at the AD#2024-08-04#[Stable---6.0.2]
+!Smiling at the AD#2024-08-10#[Stable---6.0.3]
 !此版本包含基本的质量修复。
 !此规则适用于AdGuard的用户过滤器,uBlock Origin的自定义静态规则……
 !可能会有一些语法错误。
@@ -8,6 +8,9 @@
 !
 !以下规则拦截广告。
 ##.b_ans
+###reco_list > div.rec-list:nth-child(2) > div.video-page-card-small:first-child
+###reco_list > div.rec-list:nth-child(2) > div.video-page-card-small:nth-child(14)
+###reco_list > div.rec-list:nth-child(2) > div.video-page-card-small:nth-child(18) > div.card-box
 //jhhkl.25ku.com/tmintnqqfa?kwr=GF9&vsw=B99&rw=3CEFCD9H&g1=B9ACGHIBAB&g2=BEEA9AB9CF&zhi=q22y1iCJiBOiBO555ig3G3IiglxviBOouj1qiBOpjvniBOA999IHFD&rq=C&hdf=AGB9EAF9IHIAB&row=AC&rwg=9&dfch=B&dg=ACAE6DDI&ofw=B&jsf=9G9D&dqg=AHEG6IBD&rdg=3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHOiNDiKHiKJiNDiKMiJ9iNFiHOiI9iNDiKNiIKiNFiILiH9iNFiIFiK9iNGiIJiHDiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNOiKLiHLiNEiHEiHMiNHiKDiKIiNDiKHiHKiNHiKMiKMiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNOiKLiHLiNEiKIiKFiNEiI9iHLiNFiIGiKFiNFiHOiI9iNDiKNiIKiNFiILiH9iNFiIFiK9iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNFiICiHMiNDiKMiILiNFiIFiKIiNFiKCiIEiNOiKLiHLiNEiHJiJIiNDiKMiJ9iNIiJAiKJiNEiHHiJIiNIiIGiJOiNEiHEiKCiNCiH9iHB&sqr=A&dgw=oG9jEkmnFDImmCHE&dof=AIB96A9CB&dgg=AHEG6BAF9&ykg=iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiBLiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiBL3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHO&hw=iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHg3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHO&qsq=a.OhH&rfw=9&dwg=hA6hA&obh=A&th=A&rha=Q.VUgYX-.&sldg=AA9BGG,AA9BG9,AA9BEG,AA999I,AAA99A,AA99AA&rth=9&swt=1$domain=u7u9.com
 //jhhkl.25ku.com/tmintnqqfa?kwr=GF9&vsw=B99&rw=3CEFCD9H&g1=B9ACGHIBAB&g2=BEEA9AB9CF&zhi=q22y1iCJiBOiBO555ig3G3IiglxviBOouj1qiBOpjvniBOA999IHFD&rq=C&hdf=AGB9EAF9IHIAB&row=AC&rwg=9&dfch=B&dg=ACAE6DDI&ofw=B&jsf=9G9D&dqg=AHEG6IBD&rdg=3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHOiNDiKHiKJiNDiKMiJ9iNFiHOiI9iNDiKNiIKiNFiILiH9iNFiIFiK9iNGiIJiHDiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNOiKLiHLiNEiHEiHMiNHiKDiKIiNDiKHiHKiNHiKMiKMiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNOiKLiHLiNEiKIiKFiNEiI9iHLiNFiIGiKFiNFiHOiI9iNDiKNiIKiNFiILiH9iNFiIFiK9iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiNFiICiHMiNDiKMiILiNFiIFiKIiNFiKCiIEiNOiKLiHLiNEiHJiJIiNDiKMiJ9iNIiJAiKJiNEiHHiJIiNIiIGiJOiNEiHEiKCiNCiH9iHB&sqr=A&dgw=oG9jEkmnFDImmCHE&dof=AIB96A9CB&dgg=AHEG6BAF9&ykg=iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiBLiNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHiNEiK9iHOiNFiKHiKHiNFiHHiHOiBL3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHO&hw=iNEiHEiJLiNHiKGiJOiNEiJDiJGiNFiHHiIHg3G3IiNEiK9iHOiNFiKHiKHiNFiHHiHO&qsq=a.OhH&rfw=9&dwg=hA6hA&obh=A&th=A&rha=Q.VUgYX-.&sldg=AA9BGG,AA9BG9,AA9BEG,AA999I,AAA99A,AA99AA&rth=9&swt=1$domain=u7u9.com
 123.sogou.com###app > div.wrap.gov-cotainer:nth-child(2)
@@ -66,10 +69,9 @@ baike.so.com###so-nav-container--first > ul > li.so-nav-container__item:nth-chil
 baike.so.com###so-nav-container--first > ul > li.so-nav-container__item:nth-child(6)
 baike.so.com##div.index-css:nth-child(6) > div.wrap:last-child > div.container > div.leftside:first-child > div.left-con
 bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(9) > div > a.loc-entry.loc-moveclip
-bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(9) > div > a.loc-entry.loc-moveclip
-bilibili.com##.danmaku-box
-bilibili.com##.danmaku-box
-bilibili.com##.recommended-swipe, .grid-anchor,
+bilibili.com##.danmaku-boxx
+bilibili.com##.recommended-swipe, .grid-anchor
+baidu.com###\35
 cn.bing.com##.b_rrsr
 cn.bing.com##.b_rs
 cn.bing.com##.tab-content
@@ -416,14 +418,15 @@ zh.safetydetectives.com##.vendor-btn
 zhihu.com###TopstoryContent > div.ListShortcut > div.Topstory-recommend > div.css-1fsnuue > div.Card.TopstoryItem.TopstoryItem-isRecommend:nth-child(3) > div.Feed > div > div > div.ContentItem.AnswerItem
 zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child > div.widget.widget_image_ad:first-child
 !以下规则拦截可能包含恶意软件及其他潜在性有害内容的网站。
-||163.
-||360.
 ||52pojie.net^$document,redirect=noopframe
 ||62c33227459003d85c4a2ac3ea71b879.zunjishoufa.quanfeng.net^$document,redirect=noopframe
 ||app.2345.com^$document,redirect=noopframe
 ||cms.youtube.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
+||down.gamersky.com^$document,redirect=noopframe
+||www.duote.com^$document,redirect=noopframe
+||www.downxia.com^$document,redirect=noopframe
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||dabaicai.com^$document,redirect=noopframe
@@ -443,8 +446,10 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||ixkw.cc2^$document
 ||jhhkl.25ku.com^$document,redirect=noopframe
 ||jifen.2345.com^$document,redirect=noopframe
+||www.jokerdown.com^$document,redirect=noopframe
 ||kan.znds.com^$document
 ||lxapk.com^$document,redirect=noopframe
+||macwk.cn^$document,redirect=noopframe
 ||mydown.yesky.com^$document,redirect=noopframe
 ||ouletv.cc^$document
 ||pic.2345.cc^$document,redirect=noopframe
@@ -455,7 +460,6 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||safe.2345.cc^$document,redirect=noopframe
 ||sd.zjdashi.com^$document,redirect=noopframe
 ||store.rg-adguard.net^$document,redirect=noopframe
-||so.
 ||tmioe.com^$document,redirect=noopframe
 ||uqidong.com^$document,redirect=noopframe
 ||v2rayhome.github.io^$document,redirect=noopframe
@@ -464,16 +468,19 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||windterm.org^$document,redirect=noopframe
 ||windterm.org^$document,redirect=noopframe
 ||www.01xitong.com^$document,redirect=noopframe
+||www.32r.com^$document,redirect=noopframe
 ||www.93pojie.com^$document,redirect=noopframe
 ||www.aichunjing.com^$document,redirect=noopframe
 ||www.appinn.com^$document,redirect=noopframe
 ||www.cr173.com^$document,redirect=noopframe
 ||www.crsky.com^$document,redirect=noopframe
 ||www.dayanzai.me^$document,redirect=noopframe
+||www.downxia.com^$document,redirect=noopframe
 ||www.ddooo.com^$document,redirect=noopframe
 ||www.downcc.com^$document,redirect=noopframe
 ||www.downkuai.com^$document,redirect=noopframe
 ||www.downza.cn^$document,redirect=noopframe
+||www.duote.com^$document,redirect=noopframe
 ||wenku.
 ||www.fenxm.com^$document,redirect=noopframe
 ||www.fenxm.com^$document,redirect=noopframe
@@ -526,6 +533,7 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 ||www.xitongzhijia.net^$document,redirect=noopframe
 ||www.xtxz.com^$document,redirect=noopframe
 ||www.xmpojie.com^$document,redirect=noopframe
+||www.xz7.com^$document,redirect=noopframe
 ||www.yhdmapp.com^$document
 ||www.yishimei.cn^$document,redirect=noopframe
 ||www.ypojie.com^$document,redirect=noopframe
@@ -555,6 +563,7 @@ zy.21cnjy.com###wrap > div.main.container:last-child > aside.sidebar:last-child 
 @@||msdn.itellyou.cn^$document
 @@||next.itellyou.cn^$document
 @@||pvz2.hrgame.com.cn^$document
+@@||www.hnzjgl.gov.cn^$document
 @@||www.hotpe.top^$document
 @@||www.huorong.cn^$document
 @@||www.jiangnangame.com^$document
