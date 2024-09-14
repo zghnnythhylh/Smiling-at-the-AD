@@ -1,3 +1,6 @@
+! Title: Smiling at the AD-3
+! Version: 20240826
+!
 @@||account.microsoft.com^$document
 @@||accounts.adblockplus.org^$document
 @@||addons.mozilla.org^$document
@@ -10,6 +13,7 @@
 @@||basic.smartedu.cn^$document
 @@||bbs.twinkstar.com^$document
 @@||beian.miit.gov.cn^$document
+@@||bsb.baidu.com^$document
 @@||chromewebstore.google.com^$document
 @@||code.visualstudio.com^$document
 @@||consumer.huawei.com^$document
@@ -54,6 +58,7 @@
 @@||www.rust-lang.org^$document
 @@||www.twinkstar.com^$document
 @@||www.un.org^$document
+@@||www.ventoy.net^$document
 @@||www.wepe.com.cn^$document
 @@||www.xinshuru.com^$document
 @@||www.ysjf.com^$document
