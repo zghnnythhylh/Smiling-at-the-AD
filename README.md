@@ -27,5 +27,7 @@
 ### **额外**的模块
 
 > 这里的规则并未包含在`Smiling at the AD`中
-
+> 
+|名称|描述|订阅URL（来源）|
+|---|---|---|
 | Smiling at the AD-4|DNS专用|[Github.com](https://raw.githubusercontent.com/zghnnythhylh/Smiling-at-the-AD/main/Smiling%20at%20the%20AD-4.txt)<br />[Gitee.com](https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD-4.txt)<br />[GitCode.com](https://raw.gitcode.com/Ly3/Smiling_at_the_AD/raw/main/Smiling%20at%20the%20AD-4.txt)|
