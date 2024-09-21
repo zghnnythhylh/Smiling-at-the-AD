@@ -1,5 +1,5 @@
 ! Title: Smiling at the AD-2
-! Version: 20240914
+! Version: 7.2.1
 !
 ||012edddcedhkllfjj.jumpbc.chuairan.com^$document,redirect=noopframe
 ||2345.
@@ -7,6 +7,7 @@
 ||52pojie.net^$document,redirect=noopframe
 ||62c33227459003d85c4a2ac3ea71b879.zunjishoufa.quanfeng.net^$document,redirect=noopframe
 ||7zip.net.cn^$document,redirect=noopframe
+||adguard.cn^$document,redirect=noopframe
 ||alimama.
 ||api.steampp.net^$document,redirect=noopframe
 ||app.2345.com^$document,redirect=noopframe
@@ -19,8 +20,6 @@
 ||cjge-manuscriptcentral.com^$document,redirect=noopframe
 ||cms.youtube.com^$document,redirect=noopframe
 ||cmwtat.cloudmoe.com^$document,redirect=noopframe
-||cmwtat.cloudmoe.com^$document,redirect=noopframe
-||d.winwin7xz.com^$document,redirect=noopframe
 ||d.winwin7xz.com^$document,redirect=noopframe
 ||dabaicai.com^$document,redirect=noopframe
 ||ddkk.tv^$document
@@ -37,7 +36,6 @@
 ||games.
 ||games.jlcykj.c^$document,redirect=noopframe
 ||ghxi.com^$document,redirect=noopframe
-||greenhubtx.ga^$document
 ||greenhubtx.ga^$document,redirect=noopframe
 ||hao.uuvip.net^$document,redirect=noopframe
 ||hao1.qhimg.com/dmfd/320_210_75/t01f77d80ab6c6cb0f0.webp$image
@@ -93,9 +91,7 @@
 ||win.
 ||win.fygsi.cn^$document,redirect=noopframe
 ||win.nayana.cn^$document,redirect=noopframe
-||win.nayana.cn^$document,redirect=noopframe
 ||windows.hnjqlkj.cn^$document,redirect=noopframe
-||windterm.org^$document,redirect=noopframe
 ||windterm.org^$document,redirect=noopframe
 ||www.01xitong.com^$document,redirect=noopframe
 ||www.18183.cn^$document,redirect=noopframe
@@ -137,14 +133,10 @@
 ||www.downxing.com^$document,redirect=noopframe
 ||www.downza.cn^$document,redirect=noopframe
 ||www.duote.com^$document,redirect=noopframe
-||www.duote.com^$document,redirect=noopframe
 ||www.dytt8.net^$document,redirect=noopframe
 ||www.fanqiewin10.com^$document,redirect=noopframe
-||www.fanqiewin10.com^$document,redirect=noopframe
-||www.fenxm.com^$document,redirect=noopframe
 ||www.fenxm.com^$document,redirect=noopframe
 ||www.fqhy123.com^$document,redirect=noopframe
-||www.geekdload.com^$document,redirect=noopframe
 ||www.geekdload.com^$document,redirect=noopframe
 ||www.ghost32.net^$document,redirect=noopframe
 ||www.gndown.com^$document,redirect=noopframe
@@ -173,7 +165,6 @@
 ||www.liqucn.com^$document,redirect=noopframe
 ||www.macdo.cn^$document,redirect=noopframe
 ||www.maoyan.com^$document
-||www.mefcl.com^$document,redirect=noopframe
 ||www.mefcl.com^$document,redirect=noopframe
 ||www.mofazhu.com^$document,redirect=noopframe
 ||www.msdnwogaosuni.com^$document,redirect=noopframe
@@ -208,7 +199,6 @@
 ||www.win7zhijia.cn^$document,redirect=noopframe
 ||www.winbaicai.com^$document,redirect=noopframe
 ||www.winwin7.com^$document,redirect=noopframe
-||www.winwin7.com^$document,redirect=noopframe
 ||www.wmzhe.com^$document,redirect=noopframe
 ||www.wogaosuni.com^$document,redirect=noopframe
 ||www.wqz168.com^$document,redirect=noopframe
@@ -220,8 +210,10 @@
 ||www.xiazaiba.com^$document,redirect=noopframe
 ||www.xitongcheng.com^$document,redirect=noopframe
 ||www.xitongtiandi.net^$document,redirect=noopframe
+||www.xitongzhijia.com.cn^$document,redirect=noopframe
 ||www.xitongzhijia.com^$document,redirect=noopframe
 ||www.xitongzhijia.net^$document,redirect=noopframe
+||www.xitongzijia.com^$document,redirect=noopframe
 ||www.xmpojie.com^$document,redirect=noopframe
 ||www.xtxz.com^$document,redirect=noopframe
 ||www.xylmf.com^$document,redirect=noopframe
@@ -246,6 +238,7 @@
 ||xiazai.zol.com.cn^$document,redirect=noopframe
 ||xitmi.com^$document,redirect=noopframe
 ||xitongtiandi.net^$document,redirect=noopframe
+||xxx.com^$document,redirect=noopframe
 ||yhdm.pages.dev^$document,redirect=noopframe
 ||yhdm1.org^$document,redirect=noopframe
 ||yhdmapp.
