@@ -1,11 +1,12 @@
 ! Title: Smiling at the AD-3
-! Version: 20240826
+! Version: 7.2.1
 !
 @@||account.microsoft.com^$document
 @@||accounts.adblockplus.org^$document
 @@||addons.mozilla.org^$document
 @@||addons.mozilla.org^$document
 @@||adguard.com^$document 
+@@||adguard.info^$document
 @@||adguard-dns.io^$document
 @@||appleid.apple.com^$document
 @@||apps.microsoft.com^$document
@@ -13,6 +14,7 @@
 @@||basic.smartedu.cn^$document
 @@||bbs.twinkstar.com^$document
 @@||beian.miit.gov.cn^$document
+@@||blog.mozilla.org^$document
 @@||bsb.baidu.com^$document
 @@||chromewebstore.google.com^$document
 @@||code.visualstudio.com^$document
@@ -28,6 +30,7 @@
 @@||luyou.360.cn^$document
 @@||microsoftedge.microsoft.com^$document
 @@||miwifi.com^$document
+@@||monitor.mozilla.org^$document
 @@||msdn.itellyou.cn^$document
 @@||next.itellyou.cn^$document
 @@||pvz2.hrgame.com.cn^$document
@@ -35,6 +38,7 @@
 @@||softdl.360tpcdn.com^$document
 @@||tplogin.cn^$document
 @@||vscode.dev^$document
+@@||wiki.mozilla.org^$document
 @@||www.18bit.cn^$document
 @@||www.aihao.com^$document
 @@||www.catalog.update.microsoft.com^$document
@@ -42,6 +46,7 @@
 @@||www.centbrowser.net^$document
 @@||www.chromium.org^$document
 @@||www.cnblogs.com^$document
+@@||www.crxsoso.com^$document
 @@||www.gov.cn^$document
 @@||www.harmonyos.com^$document
 @@||www.hnzjgl.gov.cn^$document
@@ -56,6 +61,7 @@
 @@||www.python.org^$document
 @@||www.rarlab.com^$document
 @@||www.rust-lang.org^$document
+@@||www.thunderbird.net^$document
 @@||www.twinkstar.com^$document
 @@||www.un.org^$document
 @@||www.ventoy.net^$document
