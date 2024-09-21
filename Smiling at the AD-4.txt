@@ -1,26 +1,25 @@
 ! Title: Smiling at the AD-4
-! Version: 20240914
+! Version: 7.2.1
 !
 ||012edddcedhkllfjj.jumpbc.chuairan.com^
 ||2345.
-||52js8.com^
+||52js8.com^^
 ||52pojie.net^
 ||62c33227459003d85c4a2ac3ea71b879.zunjishoufa.quanfeng.net^
 ||7zip.net.cn^
+||adguard.cn^
 ||alimama.
 ||api.steampp.net^
 ||app.2345.com^
 ||baijiahao.baidu.com^
 ||bbs.3dmgame.com^
-||bbs.chinapyg.com^
+||bbs.chinapyg.com^^^
 ||bing.vcanbb.top
 ||bizhi.360.cn^
 ||chrome-web.com^
 ||cjge-manuscriptcentral.com^
 ||cms.youtube.com^
 ||cmwtat.cloudmoe.com^
-||cmwtat.cloudmoe.com^
-||d.winwin7xz.com^
 ||d.winwin7xz.com^
 ||dabaicai.com^
 ||ddkk.tv^
@@ -37,7 +36,6 @@
 ||games.
 ||games.jlcykj.c^
 ||ghxi.com^
-||greenhubtx.ga^
 ||greenhubtx.ga^
 ||hao.uuvip.net^
 ||hao1.qhimg.com/dmfd/320_210_75/t01f77d80ab6c6cb0f0.webp$image
@@ -93,9 +91,7 @@
 ||win.
 ||win.fygsi.cn^
 ||win.nayana.cn^
-||win.nayana.cn^
 ||windows.hnjqlkj.cn^
-||windterm.org^
 ||windterm.org^
 ||www.01xitong.com^
 ||www.18183.cn^
@@ -137,14 +133,10 @@
 ||www.downxing.com^
 ||www.downza.cn^
 ||www.duote.com^
-||www.duote.com^
 ||www.dytt8.net^
 ||www.fanqiewin10.com^
-||www.fanqiewin10.com^
-||www.fenxm.com^
 ||www.fenxm.com^
 ||www.fqhy123.com^
-||www.geekdload.com^
 ||www.geekdload.com^
 ||www.ghost32.net^
 ||www.gndown.com^
@@ -173,7 +165,6 @@
 ||www.liqucn.com^
 ||www.macdo.cn^
 ||www.maoyan.com^
-||www.mefcl.com^
 ||www.mefcl.com^
 ||www.mofazhu.com^
 ||www.msdnwogaosuni.com^
@@ -208,7 +199,6 @@
 ||www.win7zhijia.cn^
 ||www.winbaicai.com^
 ||www.winwin7.com^
-||www.winwin7.com^
 ||www.wmzhe.com^
 ||www.wogaosuni.com^
 ||www.wqz168.com^
@@ -220,8 +210,10 @@
 ||www.xiazaiba.com^
 ||www.xitongcheng.com^
 ||www.xitongtiandi.net^
+||www.xitongzhijia.com.cn^
 ||www.xitongzhijia.com^
 ||www.xitongzhijia.net^
+||www.xitongzijia.com^
 ||www.xmpojie.com^
 ||www.xtxz.com^
 ||www.xylmf.com^
@@ -246,6 +238,7 @@
 ||xiazai.zol.com.cn^
 ||xitmi.com^
 ||xitongtiandi.net^
+||xxx.com^
 ||yhdm.pages.dev^
 ||yhdm1.org^
 ||yhdmapp.
@@ -260,6 +253,7 @@
 @@||addons.mozilla.org^
 @@||addons.mozilla.org^
 @@||adguard.com^ 
+@@||adguard.info^
 @@||adguard-dns.io^
 @@||appleid.apple.com^
 @@||apps.microsoft.com^
@@ -267,6 +261,7 @@
 @@||basic.smartedu.cn^
 @@||bbs.twinkstar.com^
 @@||beian.miit.gov.cn^
+@@||blog.mozilla.org^
 @@||bsb.baidu.com^
 @@||chromewebstore.google.com^
 @@||code.visualstudio.com^
@@ -282,6 +277,7 @@
 @@||luyou.360.cn^
 @@||microsoftedge.microsoft.com^
 @@||miwifi.com^
+@@||monitor.mozilla.org^
 @@||msdn.itellyou.cn^
 @@||next.itellyou.cn^
 @@||pvz2.hrgame.com.cn^
@@ -289,6 +285,7 @@
 @@||softdl.360tpcdn.com^
 @@||tplogin.cn^
 @@||vscode.dev^
+@@||wiki.mozilla.org^
 @@||www.18bit.cn^
 @@||www.aihao.com^
 @@||www.catalog.update.microsoft.com^
@@ -296,6 +293,7 @@
 @@||www.centbrowser.net^
 @@||www.chromium.org^
 @@||www.cnblogs.com^
+@@||www.crxsoso.com^
 @@||www.gov.cn^
 @@||www.harmonyos.com^
 @@||www.hnzjgl.gov.cn^
@@ -310,6 +308,7 @@
 @@||www.python.org^
 @@||www.rarlab.com^
 @@||www.rust-lang.org^
+@@||www.thunderbird.net^
 @@||www.twinkstar.com^
 @@||www.un.org^
 @@||www.ventoy.net^
