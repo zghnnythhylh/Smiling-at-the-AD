@@ -1,5 +1,7 @@
 # Smiling at the AD
 
+> # [Smiling at the AD 用户满意度调查](https://forms.office.com/r/rqaR9wVLF4)
+
 ## 前言
 
 这是一份适用于中国大陆地区的广告过滤规则，可能有许多不足😖，欢迎提供反馈😊，不定时更新。
