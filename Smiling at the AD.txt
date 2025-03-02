@@ -1,4 +1,5 @@
 ! Title: Smiling at the AD
+! Redirect: https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD.txt
 ! Version: 1.3.1
 !
 !此规则适用于AdGuard,uBlock Origin……不适用于 AdGuard Home
