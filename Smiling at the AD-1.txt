@@ -1,4 +1,5 @@
 ! Title: Smiling at the AD-1
+! Redirect: https://gitee.com/study-ly137/smiling-at-the-ad/raw/master/Smiling%20at%20the%20AD-1.txt
 ! Version: 7.2.1
 !
 ###oml2d-stage
